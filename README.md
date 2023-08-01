@@ -1,6 +1,13 @@
 # Connect-two-Arduinos
 This is the second task in the Internet of Things, where two Arduinos were connected through a system to UART
 
+
+
+![المهمه 2 2](https://github.com/Ali-mhmmed/Connect-two-Arduinos/assets/139057114/b2ca0ed0-2bfb-454c-a0b0-c295017e3f01)
+
+
+
+
 ## whet is UART ?
 UART stands for Universal Asynchronous Receiver/Transmitter. It is a hardware communication protocol used for serial communication between devices. UART is commonly used to transmit and receive data between microcontrollers, sensors, and other electronic devices.
 
