@@ -1,4 +1,4 @@
-![image](https://github.com/Ali-mhmmed/Connect-two-Arduinos/assets/139057114/7a5e0ff7-5f8d-4be8-99ab-f9b3b57135ac)# Connect-two-Arduinos
+# Connect-two-Arduinos
 This is the second task in the Internet of Things, where two Arduinos were connected through a system to UART
 
 ## whet is UART ?
